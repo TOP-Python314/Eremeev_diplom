@@ -27,7 +27,7 @@
 5 Технологии разработки:
 	Frontend: HTML,CSS,JavaScript
 	Backend: Python(Django)
-	База данных: MySQL
+	База данных: postgreSQL
 
 	
 		
