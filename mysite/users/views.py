@@ -4,7 +4,7 @@ from django.db.models import Prefetch
 from django.http import HttpResponse, HttpResponseRedirect
 from django.shortcuts import redirect, render
 from django.urls import reverse
-from traitlets import Instance
+
 
 import orders
 from orders.models import Order, OrderItem
